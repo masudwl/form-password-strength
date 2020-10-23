@@ -1,1 +1,1 @@
-# form-password-strength
+https://masudwl.github.io/form-password-strength/
